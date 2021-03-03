@@ -29,7 +29,7 @@ public class BiggestOfThreeNumbers {
 			
 		}
 		if (num1 > num2 && num2 > num3) {
-			big = num1;
+			big = num1; 
 		} else if (num2 > num3) {
 			big = num2;
 		} else {
